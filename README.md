@@ -20,13 +20,13 @@ to view the Weather Analysis file
 - Utilized Scikit-Learn to connduct linear regression to predict apparent temperature 
 
 ## 2. [Conversion Rate](https://github.com/SubhankarHalder/Projects/blob/master/Conversion%20Rate.ipynb)
-https://github.com/SubhankarHalder/Projects/blob/master/Conversion%20Rate.ipynb
+[![Screen-Shot-2019-10-14-at-12-29-48-AM.png](https://i.postimg.cc/xTWLrnzP/Screen-Shot-2019-10-14-at-12-29-48-AM.png)](https://postimg.cc/vct4fRX1)
 - Employed Pandas Dataframe to investigate the conversion rate of users visiting a website 
 - Graphed plots between the converted users versus their ages, geographical location and source channel 
 - Applied Scikit-Learn's logistic regression library to predict the conversion rate of the website's visitors
 
 ## 3. [Employee Retention](https://github.com/SubhankarHalder/Projects/blob/master/Employee%20Retention.ipynb)
-[![Screen-Shot-2019-10-14-at-12-27-53-AM.png](https://i.postimg.cc/fTWr372P/Screen-Shot-2019-10-14-at-12-27-53-AM.png)](https://postimg.cc/mhqwJ9G3)
+[![Screen-Shot-2019-10-14-at-12-27-53-AM.png](https://i.postimg.cc/N0xXrXPN/Screen-Shot-2019-10-14-at-12-27-53-AM.png)](https://postimg.cc/B8Xbrj3D)
 - Investigated employee join and quit data from various companies to predict when employees quit
 - Exploited descriptive statistics and histograms to note when the employees quit
 
