@@ -20,6 +20,7 @@ to view the Weather Analysis file
 - Utilized Scikit-Learn to connduct linear regression to predict apparent temperature 
 
 ## 2. [Conversion Rate](https://github.com/SubhankarHalder/Projects/blob/master/Conversion%20Rate.ipynb)
+https://github.com/SubhankarHalder/Projects/blob/master/Conversion%20Rate.ipynb
 - Employed Pandas Dataframe to investigate the conversion rate of users visiting a website 
 - Graphed plots between the converted users versus their ages, geographical location and source channel 
 - Applied Scikit-Learn's logistic regression library to predict the conversion rate of the website's visitors
