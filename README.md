@@ -33,5 +33,5 @@ to view the Weather Analysis file
 ## 4. [Google Studio Dashboard Report](https://datastudio.google.com/reporting/86f27341-6d08-44db-8b81-ab4d06e3a26f/page/CD02)
 ![Google Studio Dashboard](https://datastudio.google.com/reporting/86f27341-6d08-44db-8b81-ab4d06e3a26f/page/CD02/thumbnail)
 - Please visit the following link to view the project: https://datastudio.google.com/reporting/86f27341-6d08-44db-8b81-ab4d06e3a26f/page/CD02/
-- Designed 2 Pages for the dashboard report using Google Data Studio based on sales and revenue [data](https://docs.google.com/spreadsheets/d/1sEC7zGBUG6X4TKc1pWuNyF7uufjQP5cBLQ0k5sLkags/edit#gid=0) of a company
+- Designed 2 pages for the dashboard report using Google Data Studio based on sales and revenue [data](https://docs.google.com/spreadsheets/d/1sEC7zGBUG6X4TKc1pWuNyF7uufjQP5cBLQ0k5sLkags/edit#gid=0) of a company
 - Experimented with charts, metrics, dimensions and color and other tools to finish this project
