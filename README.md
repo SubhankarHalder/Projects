@@ -13,7 +13,7 @@ to view the Weather Analysis file
 # Description of Projects
 
 ## 1. [Weather Analysis](https://github.com/SubhankarHalder/Projects/blob/master/WeatherAnalysis.ipynb)
-
+[![Screen-Shot-2019-10-14-at-12-19-54-AM.png](https://i.postimg.cc/grbbWCDT/Screen-Shot-2019-10-14-at-12-19-54-AM.png)](https://postimg.cc/RJdD1b27)
 
 - Cleaned the weather data of Szeged from errors using Pandas Dataframe
 - Explored relationships betweeen the weather variables using Matplotlib and Seaborn
