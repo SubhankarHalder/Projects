@@ -12,17 +12,19 @@ to view the Weather Analysis file
 
 # Description of Projects
 
-## 1. Weather Analysis
+## 1. [Weather Analysis](https://github.com/SubhankarHalder/Projects/blob/master/WeatherAnalysis.ipynb)
+
+
 - Cleaned the weather data of Szeged from errors using Pandas Dataframe
 - Explored relationships betweeen the weather variables using Matplotlib and Seaborn
 - Utilized Scikit-Learn to connduct linear regression to predict apparent temperature 
 
-## 2. Conversion Rate
+## 2. [Conversion Rate](https://github.com/SubhankarHalder/Projects/blob/master/Conversion%20Rate.ipynb)
 - Employed Pandas Dataframe to investigate the conversion rate of users visiting a website 
 - Graphed plots between the converted users versus their ages, geographical location and source channel 
 - Applied Scikit-Learn's logistic regression library to predict the conversion rate of the website's visitors
 
-## 3. Employee Retention
+## 3. [Employee Retention](https://github.com/SubhankarHalder/Projects/blob/master/Employee%20Retention.ipynb)
 - Investigated employee join and quit data from various companies to predict when employees quit
 - Exploited descriptive statistics and histograms to note when the employees quit
 
