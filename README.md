@@ -25,6 +25,7 @@ to view the Weather Analysis file
 - Applied Scikit-Learn's logistic regression library to predict the conversion rate of the website's visitors
 
 ## 3. [Employee Retention](https://github.com/SubhankarHalder/Projects/blob/master/Employee%20Retention.ipynb)
+[![Screen-Shot-2019-10-14-at-12-27-53-AM.png](https://i.postimg.cc/fTWr372P/Screen-Shot-2019-10-14-at-12-27-53-AM.png)](https://postimg.cc/mhqwJ9G3)
 - Investigated employee join and quit data from various companies to predict when employees quit
 - Exploited descriptive statistics and histograms to note when the employees quit
 
