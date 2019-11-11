@@ -12,6 +12,13 @@ to view the Weather Analysis file
 
 # Description of Projects
 
+## 1. [Sale Price Prediction of Bulldozers](https://github.com/SubhankarHalder/Projects/blob/master/Blue%20Book%20for%20Bulldozers%20Sale%20Price.ipynb)
+[![Screen-Shot-2019-11-11-at-11-00-07-AM.png](https://i.postimg.cc/JhpjXnCL/Screen-Shot-2019-11-11-at-11-00-07-AM.png)](https://postimg.cc/zLRLZqft)
+
+- Employed Pandas DataFrame to clean and feature engineer data
+- Used Scikit-Learn library to deploy Random Forest algorithm to predict logarithm of sale price 
+- Tune Hyperparameters in the algorithm to adjust and reduce prediction error
+
 ## 1. [Weather Analysis](https://github.com/SubhankarHalder/Projects/blob/master/WeatherAnalysis.ipynb)
 [![Screen-Shot-2019-10-14-at-12-19-54-AM.png](https://i.postimg.cc/grbbWCDT/Screen-Shot-2019-10-14-at-12-19-54-AM.png)](https://postimg.cc/RJdD1b27)
 
