@@ -23,8 +23,8 @@ to view the Weather Analysis file
 [![Screen-Shot-2019-10-14-at-12-19-54-AM.png](https://i.postimg.cc/grbbWCDT/Screen-Shot-2019-10-14-at-12-19-54-AM.png)](https://postimg.cc/RJdD1b27)
 
 - Cleaned the weather data of Szeged from errors using Pandas Dataframe
-- Explored relationships betweeen the weather variables using Matplotlib and Seaborn
-- Utilized Scikit-Learn to connduct linear regression to predict apparent temperature 
+- Explored relationships between the weather variables using Matplotlib and Seaborn
+- Utilized Scikit-Learn to conduct linear regression to predict apparent temperature 
 
 ## 3. [Conversion Rate](https://github.com/SubhankarHalder/Projects/blob/master/Conversion%20Rate.ipynb)
 [![Screen-Shot-2019-10-14-at-12-29-48-AM.png](https://i.postimg.cc/xTWLrnzP/Screen-Shot-2019-10-14-at-12-29-48-AM.png)](https://postimg.cc/vct4fRX1)
